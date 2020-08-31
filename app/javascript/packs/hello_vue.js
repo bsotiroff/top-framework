@@ -41,11 +41,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const app = new Vue({
     el: '#app',
     render: h => h(App, { props })
-    // template: '<div>Hello World</div>'
-    // data: {
-    //   message: "Hello Vue!"
-    // },
-    // components: { App }
   })
 })
 //
