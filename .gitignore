@@ -40,4 +40,4 @@
 yarn-debug.log*
 .yarn-integrity
 
-secrets.json
+secrets.yml
